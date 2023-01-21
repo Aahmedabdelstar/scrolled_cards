@@ -3,7 +3,7 @@ Prerequisites :
 * Android Studio or any IDE that support Flutter must be installed.
 
 
-## General Info
+###General Info
 A simple app to show a horizontal list of paged cards which can be swiped or scrolled left and right.
 
 
